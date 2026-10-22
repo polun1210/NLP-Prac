@@ -1,1 +1,4 @@
-test.py
+# 三個作業各自是獨立的 git repo，不放進 NLP-Prac
+hw1_bert_emotion/
+hw2_pickup_lines/
+hw3_health_rag/
